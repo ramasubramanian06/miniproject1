@@ -22,12 +22,12 @@ This project demonstrates how a demo website containerized with Docker and deplo
 - Github
 
 ## How to run 
-'''bash
+```bash
   git clone https://github.com/ramasubramanian06/miniproject1.git
   cd miniproject1
   chmod 755 deploy.sh
-  :./deploy.sh
-'''
+  ./deploy.sh
+```
 
 ## Author
 
