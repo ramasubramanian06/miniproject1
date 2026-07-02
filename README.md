@@ -1,6 +1,6 @@
-# DevOps mini project
+# DevOps mini project - Docker Deployment Automation
 
-A demo website containerized with Docker and deployed using a custom Bash automation script.
+This project demonstrates how a demo website containerized with Docker and deployed using a custom Bash automation script.
 
 # What this project demonstrates
 
@@ -15,13 +15,20 @@ A demo website containerized with Docker and deployed using a custom Bash automa
 # Tech stack
 
 - HTML
-- Docker/Dockerhub
+- Docker
+- Dockerhub
 - Bash
-- Git/Github
+- Git
+- Github
 
 ## How to run 
 '''bash
-git clone https://github.com/ramasubramanian06/miniproject1.git
-cd miniproject1
-chmod 755 deploy.sh
-./deploy.sh
+  git clone https://github.com/ramasubramanian06/miniproject1.git
+  cd miniproject1
+  chmod 755 deploy.sh
+  :./deploy.sh
+'''
+
+## Author
+
+  Ramasubramanian M - Aspiring Devops Engineer
